@@ -1,4 +1,4 @@
-![Martín Cardozo Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://github.com/maxpipoka/maxpipoka/blob/main/tittle_sec.png)
+![Martín Cardozo Singh Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://github.com/maxpipoka/maxpipoka/blob/main/tittle_sec.png](https://github.com/maxpipoka/maxpipoka/blob/main/tittle_sec.png?raw=true))
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 ### Hi there 👋
