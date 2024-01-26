@@ -6,7 +6,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/maxpipoka">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxpipoka&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&border_color=F4D023"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxpipoka&layout=compact&langs_count=8&theme=great-gatsby"/>
 </a>
